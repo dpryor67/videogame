@@ -7,6 +7,7 @@
 ## Description
 
 _These are lists of video games I've played and ones I want to play._
+_See my demo at http://dpryor67.github.io/videogame/_
 
 ## Setup/Installation Requirements
 
